@@ -6,4 +6,4 @@
 # Kullanılan Kütüphaneler
 - flutter.svg
  
-* Bir sonraki güncelleme responsive üzerine olacaktır.
+# Bir sonraki güncelleme responsive üzerine olacaktır.
