@@ -8,4 +8,4 @@
  
 **Bir sonraki güncelleme responsive üzerine olacaktır.**
 # Ekran
-/assets/wasty.png
+! /assets/wasty.png
