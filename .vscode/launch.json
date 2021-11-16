@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "wasty",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "wasty (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "Flutter_LoginPage",
+            "cwd": "Flutter_LoginPage",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Flutter_LoginPage (profile mode)",
+            "cwd": "Flutter_LoginPage",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
