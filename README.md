@@ -8,4 +8,4 @@
  
 **Bir sonraki güncelleme responsive üzerine olacaktır.**
 # Ekran
-/../assets/wasty.png
+![screenshot](https://github.com/emrekorkmaz14/Flutter_LoginPage/blob/main/assets/wasty.png)
