@@ -3,5 +3,5 @@
 - Daha düzenli bir görünüm elde edildi.
 - Clean Code prensiplerine uyulmaya çalışıldı.
 - Takım çalışması deneyimlendi.
-# kullanılan kütüphaneler
+# Kullanılan Kütüphaneler
 - flutter.svg
