@@ -5,3 +5,4 @@
 - Takım çalışması deneyimlendi.
 # Kullanılan Kütüphaneler
 - flutter.svg
+- Bir sonraki güncelleme responsive üzerine olacaktır.
